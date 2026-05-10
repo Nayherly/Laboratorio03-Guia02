@@ -10,7 +10,7 @@
 ---
 
 ## Dashboard principal
-![Dashboard SonarCloud](image.png)
+![Dashboard SonarCloud](image-1.png)
 
 **Quality Gate Status: ✅ PASSED — All conditions passed**
 
@@ -18,7 +18,7 @@ El análisis automático de SonarCloud arrojó los siguientes resultados:
 
 
 ## Quality Gate
-![Quality Gate](capturas/image.png)
+
 
 | Métrica          | Resultado         | Descripción                                      |
 |------------------|-------------------|--------------------------------------------------|
