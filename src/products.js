@@ -1,4 +1,10 @@
 // products.js — Módulo de gestión de productos (CORREGIDO)
+// CORRECCIONES APLICADAS:
+// 1. Se reemplazó 'var' por 'const/let' en todo el módulo
+// 2. Se corrigió comparación == por === (comparación estricta)
+// 3. Se corrigieron precios negativos, null y undefined
+// 4. Se agregó validación en calculateDiscount
+// 5. Se agregó documentación JSDoc a todas las funciones
 const products = [
   { id: 1, name: 'Laptop HP',        price: 2500 },
   { id: 2, name: 'Mouse Logitech',   price: 45   },
