@@ -10,7 +10,7 @@
 ---
 
 ## Dashboard principal
-![Dashboard SonarCloud](./image-1.png)
+![Dashboard SonarCloud](https://raw.githubusercontent.com/Nayherly/Laboratorio03-Guia02/QANayherly/QA/image-1.png)
 
 **Quality Gate Status: ✅ PASSED — All conditions passed**
 
